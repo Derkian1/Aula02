@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class Main {
+public class letraA {
 
     public static void main(String[] args) {
         int TotalCopias;
